@@ -1,5 +1,5 @@
-# tar
-Rust Gamification Bot (Studying Only)
+# tars
+Gamification bot made with Rust (Just studying)
 
 ## How to
 
