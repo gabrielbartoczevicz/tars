@@ -17,4 +17,4 @@ error[E0432]: unresolved import `std::boxed::FnBox`
   |     ^^^^^^^^^^^^^^^^^ no `FnBox` in `boxed`
 ```
 
-Just update the Rocket framework by running the `cargo update` command (Reference)
+Just update the Rocket framework by running the `cargo update` command ([Reference](https://github.com/SergioBenitez/Rocket/issues/1042))
